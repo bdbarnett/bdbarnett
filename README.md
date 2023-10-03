@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Brad Barnett
+- 👀 I’m interested in microcontrollers, Micropython, Circuitpython, LVGL and MIDI.
