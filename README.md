@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Brad Barnett.  I have a degree in electronics, I'm a veteran, I've been in IT for nearly 30 years, and I've been an IT director for nearly 20 years.
-- 👀 I’m interested in microcontrollers, Micropython, Circuitpython, LVGL and MIDI.
+
